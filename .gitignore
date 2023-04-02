@@ -1,0 +1,42 @@
+/Simple Tic-Tac-Toe (Kotlin)/Welcome to the battlefield/
+/Simple Tic-Tac-Toe (Kotlin)/The user is the gamemaster/
+/Simple Tic-Tac-Toe (Kotlin)/lesson-info.yaml
+/Simple Tic-Tac-Toe (Kotlin)/What's up on the field/
+/Simple Tic-Tac-Toe (Kotlin)/First move/
+/Simple Tic-Tac-Toe (Kotlin)/Fight/
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+/.gradle
+
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
